@@ -1,0 +1,47 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "University T-Shirt",
+        "description": "Official university logo t-shirt",
+        "price": 19.99,
+        "image": "/img/51W6cv6rjuL._AC_UL320_.jpg"
+      },
+      { 
+        "id": 2,
+        "name": "University Hoodie",
+        "description": "Warm hoodie with embroidered university name",
+        "price": 34.99,
+        "image": "/img/61gj2BZBfmL._AC_SX569_.jpg"
+      },
+      {
+        "id": 3,
+        "name": "University Backpack",
+        "description": "Durable backpack with multiple compartments",
+        "price": 29.99,
+        "image": "/img/21nhdUF5MuL._AC_.jpg"
+      },
+      {
+        "id": 4,
+        "name": "University Mug",
+        "description": "Ceramic mug with university emblem",
+        "price": 9.99,
+        "image": "/img/61uUvCNfPQL._AC_SL1500_.jpg"
+      },
+      {
+        "id": 5,
+        "name": "University Notebook",
+        "description": "Spiral-bound notebook for all your notes",
+        "price": 7.99,
+        "image": "/img/51IHsIFoEXL._AC_UL320_.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Gradution Scarf",
+        "description": "12 Pcs Class of 2023 Graduation Stole Unisex Adult Graduation Sash 60'' Long White Grad Stole for Adult Men Women School College University Anniversary, White With Yellow Patterns",
+        "price": 30,
+        "image": "/img/71PgcooJkpL._AC_SX679_.jpg"
+      }
+    ]
+  }
+  
